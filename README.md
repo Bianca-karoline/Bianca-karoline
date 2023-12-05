@@ -33,7 +33,6 @@
 <div>
 <a href="https://www.kaggle.com/biancakaroline" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
 <a href="mailto:biancakarolineferreira14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/bianca-ferreira-9098aa257" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <!--
 **Bianca-karoline/Bianca-karoline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
