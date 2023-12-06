@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning TensorFLow.
 - 😄 Pronouns: she/her
 <div align="center">
-  <img  height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Bianca-karoline&show_icons=true&theme=transparent">
-  <img  height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-karoline&layout=compact&theme=transparent">
+  <img  height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Bianca-karoline&show_icons=true&theme=transparent&count_private=true">
+  <img  height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-karoline&layout=compact&theme=transparent&count_private=true">
 </div>
 <br>
 
