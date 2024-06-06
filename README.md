@@ -2,17 +2,19 @@
 - 🔭 I’m currently working with JavaScript and Python.
 - 🌱 I’m currently learning TensorFLow.
 - 😄 Pronouns: she/her
+
 <div align="center">
   <img  height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Bianca-karoline&show_icons=true&theme=transparent&count_private=true">
   <img  height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-karoline&layout=compact&theme=transparent&count_private=true">
 </div>
 <br>
-
 <div align="center"> 
+  <!---
   <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">  
   <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"> 
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">   
   <img align="center" alt="Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  -->
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">  
   <img align="center" alt="Numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"> 
   <img align="center" alt="Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"> 
